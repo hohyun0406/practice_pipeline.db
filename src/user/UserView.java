@@ -1,6 +1,5 @@
 package user;
 
-import java.util.Scanner;
 
 public class UserView {
     public static void main(Scanner sc) {
